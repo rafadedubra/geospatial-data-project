@@ -1,6 +1,7 @@
 # geospatial-data-project
 
-En este proyecto se busca la mejor ubicación para colocar una StartUp.<br>
+En este proyecto se busca visualizar la mejor ubicación para colocar una StartUp.<br>
+
 Para ello se tienen varios factores en cuenta:<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1- Debe estar cerca de un aeropuerto.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2- Debe tener cafeterías próximas.<br>
